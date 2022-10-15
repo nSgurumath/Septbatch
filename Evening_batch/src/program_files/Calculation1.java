@@ -28,6 +28,7 @@ public class Calculation1
 		int f;
 		f=d-e;
 		System.out.println(f);
+		System.out.println("taking break");
 		return f;
 	}
 	public void div(int m, int n)
